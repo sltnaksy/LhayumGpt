@@ -18,7 +18,6 @@ export default function Navbar() {
 
         <nav className="hidden md:flex items-center gap-8 text-sm text-white/80">
           <a href="#features" className="hover:text-white">Features</a>
-          <a href="#showcase" className="hover:text-white">Showcase</a>
           <a href="#newsletter" className="hover:text-white">Newsletter</a>
         </nav>
       </div>
